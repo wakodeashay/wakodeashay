@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashay Wakode</h1>
 <h3 align="center">A passionate Roboticist from India, currently working in UAE</h3>
 
-- 🌱 I’m currently learning **Embedded systems**
+- 🌱 I’m currently learning **Embedded systems, Flight Controller Softwares**
 
-- 💬 Ask me about **ROS 1, ROS 2**
+- 💬 Ask me about **ROS 1, ROS 2, GAZEBO**
 
 - 📫 How to reach me **ashaywakode@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dXwWBctBbdrviTN7FT8CNETkPbHhRufx/view?usp=sharing](https://drive.google.com/file/d/1dXwWBctBbdrviTN7FT8CNETkPbHhRufx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
